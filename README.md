@@ -1,2 +1,3 @@
 # RayTracing
 a realiztion of RayTracing in cpp, which is the final project of SJTU CS3310 in 2023
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/a207c480-12fa-4f17-bceb-7e6931313146">
